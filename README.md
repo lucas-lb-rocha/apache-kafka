@@ -20,4 +20,4 @@ The kafdrop will be on localhost:19000
 Just run the project's main file
 
 ##
-Link para o vídeo com a demonstração da aplicação: https://youtu.be/GQ4GIUVGsVU
+Link to the video with the application demonstration: https://youtu.be/GQ4GIUVGsVU
